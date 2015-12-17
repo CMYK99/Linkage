@@ -1,3 +1,11 @@
+/**
+ * @preserve linkageForSelect 1.0
+ * https://github.com/YouHeng1/Linkage
+ *
+ * Copyright 2015, Youheng1
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
 (function(exportName){
     var fun=function(data,id,callback){
         this.data=data;
